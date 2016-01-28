@@ -7,3 +7,6 @@ My new favorite theme. Mostly inspired by Cinama4D UI.
 
 ##Ulysses:
 A dark blue theme. Another favorite of mine!
+
+##Macaw:
+A dark with faded blue and orange theme. My new favorite!
